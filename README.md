@@ -10,4 +10,4 @@ Extract the .zip-file and place the objectSorter.cs in the Assets folder of your
 The editor should automatically add the tool, and you will see "Tools" in the titlebar of unity.
 
 -----------------------------------------
-Read more about the tool here: https://sivert.xyz/
+Read more about the tool here: https://sivert.xyz/unity-object-sorter/

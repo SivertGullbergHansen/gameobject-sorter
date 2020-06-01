@@ -11,3 +11,5 @@ The editor should automatically add the tool, and you will see "Tools" in the ti
 
 -----------------------------------------
 Read more about the tool here: https://sivert.xyz/unity-object-sorter/
+-----------------------------------------
+Watch video here: https://www.youtube.com/watch?v=uTHZROgj8wU

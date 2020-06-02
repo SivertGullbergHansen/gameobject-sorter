@@ -3,11 +3,17 @@ Repo for my tool The Gameobject Sorter
 
 Installation:
 
-Press the green button at the top-right corner of this repo.
+Step 1: Open your package-manager in the unity editor
 
-Extract the .zip-file and place the objectSorter.cs in a new folder called "Editor" in the "Assets"-folder of your project. If you do not place this script in a folder called "Editor", then unity will try to build your game with the editor-script active, which will not work.
+Step 2: Search “Gameobject-Grid-Sorter”
 
-The editor should automatically add the tool, and you will see "Tools" in the titlebar of unity.
+Step 3: Press download in the bottom right corner, then press import
+
+Usage:
+
+Open the tool by navigating Tools > Sivert > Gameobject Sorter
+
+Press >Tutorial to view the tutorial.
 
 -----------------------------------------
 Read more about the tool here: https://sivert.xyz/unity-object-sorter/

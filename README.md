@@ -26,7 +26,6 @@ Open the tool by navigating Tools > Sivert > Gameobject Sorter
 
 Press >Tutorial to view the tutorial.
 
------------------------------------------
-Read more about the tool here: https://sivert.xyz/unity-object-sorter/
------------------------------------------
-Watch video here: https://www.youtube.com/watch?v=uTHZROgj8wU
+## :notebook_with_decorative_cover:Read more about the tool here: https://sivert.xyz/unity-object-sorter/
+
+## :clapper:Watch video here: https://www.youtube.com/watch?v=uTHZROgj8wU

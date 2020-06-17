@@ -1,5 +1,5 @@
 # :test_tube:gameobject-sorter
-:nerd_face:Repo for my tool The Gameobject Sorter:nerd_face:
+Repo for my tool The Gameobject Sorter:nerd_face:
 
 # Installation:
 

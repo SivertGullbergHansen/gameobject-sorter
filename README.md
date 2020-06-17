@@ -1,5 +1,4 @@
 # :test_tube:gameobject-sorter
-Repo for my tool The Gameobject Sorter:nerd_face:
 
 # Installation:
 

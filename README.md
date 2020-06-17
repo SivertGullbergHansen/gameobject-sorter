@@ -1,5 +1,9 @@
 # :test_tube:gameobject-sorter
 
+## :notebook_with_decorative_cover:Read more about the tool here: https://sivert.xyz/unity-object-sorter/
+
+## :clapper:Watch video here: https://www.youtube.com/watch?v=uTHZROgj8wU
+
 # Installation:
 
 ## Github:
@@ -25,7 +29,3 @@
 Open the tool by navigating Tools > Sivert > Gameobject Sorter
 
 Press >Tutorial to view the tutorial.
-
-## :notebook_with_decorative_cover:Read more about the tool here: https://sivert.xyz/unity-object-sorter/
-
-## :clapper:Watch video here: https://www.youtube.com/watch?v=uTHZROgj8wU

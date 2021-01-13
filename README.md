@@ -7,7 +7,7 @@
 # Installation:
 
 ## Github:
-1. Press the green button that says Code and select the Download ZIP.
+1. Press the green button that says Code and select the Download ZIP. (Or go here: https://github.com/SivertGullbergHansen/gameobject-sorter/archive/master.zip)
 
 2. Open the .zip-file with WinZip or another zip-extraction tool, and extract the content to a desired folder (as a temporary location).
 

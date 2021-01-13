@@ -7,7 +7,7 @@
 # Installation:
 
 ## Github:
-1. Press the green button that says Clone or Download and select the last button to the right that says Download Zip. 
+1. Press the green button that says Code and select the Download ZIP.
 
 2. Open the .zip-file with WinZip or another zip-extraction tool, and extract the content to a desired folder (as a temporary location).
 

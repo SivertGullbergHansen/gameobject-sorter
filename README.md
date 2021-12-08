@@ -1,6 +1,6 @@
 # :test_tube:gameobject-sorter
 
-## :notebook_with_decorative_cover:Read more about the tool here: https://sivert.xyz/unity-object-sorter/
+## :notebook_with_decorative_cover:Read more about the tool here: https://blog.sivert.xyz/unity-object-sorter/
 
 ## :clapper:Watch video here: https://www.youtube.com/watch?v=uTHZROgj8wU
 
